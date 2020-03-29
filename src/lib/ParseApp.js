@@ -197,6 +197,7 @@ export default class ParseApp {
   }
 
   getClassCount(className) {
+    return Promise.resolve(0);
     this.setParseKeys();
     if (this.classCounts.counts[className] !== undefined) {
       // Cache it for a minute
