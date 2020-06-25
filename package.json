@@ -110,7 +110,7 @@
     "generate": "node scripts/generate.js",
     "prepare": "webpack --config webpack/publish.config.js --progress",
     "server": "node server.js",
-    "start": "node ./Parse-Dashboard/index.js --config parse-dashboard-config.json"
+    "start": "node ./Parse-Dashboard/index.js"
   },
   "bin": {
     "parse-dashboard": "./bin/parse-dashboard"
