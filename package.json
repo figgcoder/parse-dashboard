@@ -115,9 +115,6 @@
   "bin": {
     "parse-dashboard": "./bin/parse-dashboard"
   },
-  "engines": {
-    "node": ">=8.9"
-  },
   "main": "Parse-Dashboard/app.js",
   "jest": {
     "roots": [

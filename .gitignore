@@ -12,3 +12,8 @@ npm-debug.log
 
 logs/
 test_logs
+
+# Elastic Beanstalk Files
+.elasticbeanstalk/*
+!.elasticbeanstalk/*.cfg.yml
+!.elasticbeanstalk/*.global.yml
