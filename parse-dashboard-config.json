@@ -1,0 +1,12 @@
+{
+  "apps": [{
+    "serverURL": "https://parse.finoramic.com/parse",
+    "appId": "421e283941b55b44e5177e029a4e65a5",
+    "masterKey": "74e4c20bf8a6bab8295406e2d3b03f60",
+    "appName": "Focus Production"
+  }],
+  "users": [{
+    "user": "figgadmin",
+    "pass": "#i0^Os5rF91Xn4RH47tY"
+  }]
+}
